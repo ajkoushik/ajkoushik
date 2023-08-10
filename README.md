@@ -38,9 +38,6 @@
 
 <h3 align="center">PS the below github details are from my personal R & D, does not include my org wide contribution</h3>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajkoushik&show_icons=truetheme=highcontrast&include_all_commits=true&count_private=true&locale=en&layout=compact" alt="ajkoushik" /></p>
-
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=ajkoushik&theme=highcontrast&border_radius=40" alt="ajkoushik" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ajkoushik&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&locale=en" alt="ajkoushik" /></p>
