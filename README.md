@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cyber-security, ML and deep learning, React, AWS services, GCP and other in trend techs.**
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I regularly write articles on [Medium](https://medium.com/the-sixt-india-blog/aws-network-firewall-for-egress-and-ingress-filtering-9d61c4411188)
 
 - 💬 Ask me about **Python, security stuff, Automation, K8s, AWS,**
 
