@@ -38,6 +38,7 @@
 
 <h3 align="center">PS: the below github details are from my personal R & D repos, does not include work related contribution</h3>
 
-<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=ajkoushik&theme=black-ice&exclude_days=Sun%2CSat" alt="ajkoushik" /></a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ajkoushik&theme=black-ice&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajkoushik&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&locale=en" alt="ajkoushik" /></p>
